@@ -49,7 +49,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/en/) (versão 18.18.0 ou sup
 1.  Clone o repositório para o seu ambiente local:
 
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone <https://github.com/mdaadsilva/vendinha-interfocus>
     cd vendinha-interfocus
     ```
 
